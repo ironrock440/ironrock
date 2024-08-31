@@ -8,7 +8,7 @@ import os
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 
 # Get Telegram token from environment variable
-TELEGRAM_TOKEN = os.getenv('7006791888:AAFdOeY-aqeIH4dC_q8tO_YzBFdvaHqkjdg')
+TELEGRAM_TOKEN = os.getenv('6926181754:AAFIbks3AYITaDXPgLgr4B9f7LqqTy3DDU4')
 
 # Nobitex API endpoint for order book
 NOBITEX_ORDERBOOK_URL = 'https://api.nobitex.ir/v2/orderbook/'
